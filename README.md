@@ -1,4 +1,7 @@
-## Hi there 👋
+👋 Hi, I am Sabana Bandopadhyay
+I am a Security Software Engineer at Honeywell. I'm deeply passionate about security, and love to learn and share things related to security.
+
+🌩️ I currently work dentity and Access Management (IAM), PKI, certificate and keystore lifecycle management, Zero Trust architecture, and security automation, partnering closely with product, cloud, and cybersecurity teams to deliver secure-by-design systems aligned with NIST and ISO frameworks.
 
 <!--
 **SabanaBandopadhyay/SabanaBandopadhyay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
