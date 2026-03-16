@@ -5,7 +5,8 @@ Security Software Engineer at Honeywell working on cloud and IoT security.
 ## About Me
 
 I have 12+ years of experience building secure enterprise platforms and IoT systems.  
-My work focuses on application security, IAM, PKI, and secure software architecture.
+My work focuses on application security, IAM, PKI, and secure software architecture. 
+Recently exploring AI security gurdrails, standards and architectural approaches.
 
 ## What I Work On
 
