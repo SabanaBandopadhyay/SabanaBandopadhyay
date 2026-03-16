@@ -1,6 +1,6 @@
 # Hi, I'm Sabana 👋
 
-Senior Security Software Engineer at Honeywell working on cloud and IoT security.
+Security Software Engineer at Honeywell working on cloud and IoT security.
 
 ## About Me
 
