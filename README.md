@@ -1,30 +1,35 @@
 # Hi, I'm Sabana 👋
 
-Security Software Engineer at Honeywell working on cloud and IoT security.
+Cloud & AI Solutions Architect | AWS & Azure | Java Microservices | FinOps | Agentic AI & LLM | Secure Cloud & Hybrid Architecture
+
+Designing scalable, cost-efficient, and secure cloud-native and AI-powered systems.
 
 ## About Me
 
-I have 12+ years of experience building secure enterprise platforms and IoT systems.  
-My work focuses on application security, IAM, PKI, and secure software architecture. 
-Recently exploring AI security gurdrails, standards and architectural approaches.
+Cloud & AI Solutions Architect with 12+ years of experience building scalable, cost-efficient, and secure systems across cloud and hybrid environments.
 
-## What I Work On
+## 🔹 What I Do
+- Cloud Migration & Modernization (AWS, Azure)
+- Multi-Cloud Architecture & FinOps
+- Java, Spring Boot Microservices
+- Agentic AI & LLM-based Systems
+- Cloud & Hybrid Security (IAM, Zero Trust, PKI)
 
-- Secure cloud and IoT platforms
-- Identity and Access Management
-- PKI and certificate lifecycle
-- Secure SDLC and threat modeling
-- AI security research
+## 🔹 Core Strength
+I design systems that are:
+✔ Scalable  
+✔ Cost-efficient  
+✔ Secure by design  
+✔ AI-enabled  
 
-## Technologies
+## 🔹 Featured Work
+➡️ Agentic AI Platform for Cloud Remediation  
+➡️ Cloud Migration & Modernization Architectures  
+➡️ Secure Microservices & Distributed Systems  
 
-Java | AWS | Azure | IAM | PKI | OAuth2 | OIDC | Secure SDLC
+## 🔹 Tech Stack
+AWS | Azure | Agentic AI | LLM | Java | Spring Boot | Microservices | LLM | Docker | Kubernetes | IAM | PKI
 
-## Current Interests
-
-- AI Security
-- Zero Trust architecture
-- Security automation
 
 <!--
 **SabanaBandopadhyay/SabanaBandopadhyay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
