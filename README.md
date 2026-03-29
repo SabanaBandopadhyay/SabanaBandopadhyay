@@ -1,6 +1,6 @@
 # Hi, I'm Sabana 👋
 
-Cloud & AI Solutions Architect | AWS & Azure | Java Microservices | FinOps | Agentic AI & LLM | Secure Cloud & Hybrid Architecture
+Cloud & AI Solutions Architect | AWS & Azure | Java Microservices | FinOps | Agentic AI & LLM | Security Engineer
 
 Designing scalable, cost-efficient, and secure cloud-native and AI-powered systems.
 
