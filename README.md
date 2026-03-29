@@ -17,6 +17,7 @@ Cloud & AI Solutions Architect with 12+ years of experience building scalable, c
 
 ## 🔹 Core Strength
 I design systems that are:
+
 ✔ Scalable  
 ✔ Cost-efficient  
 ✔ Secure by design  
