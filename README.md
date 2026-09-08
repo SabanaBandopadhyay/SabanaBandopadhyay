@@ -1,48 +1,41 @@
 # Hi, I'm Sabana 👋
 
-Cloud Security & AI Transformation Leader | Application Security Architect | Multi-Cloud (AWS, Azure) | IAM, FinOps | Agentic AI & LLM Systems | Java, Microservices | Driving Secure, Scalable Platforms| AppSec
+### Cloud & AI Security Architect | IAM Specialist | AppSec | AWS • Azure • GCP
 
-Designing scalable, cost-efficient, and secure cloud-native and AI-powered systems.
+Cloud & AI Security Architect with 12+ years of experience designing and securing enterprise, cloud-native, and distributed systems, with deep specialization in **Identity & Access Management (IAM)**.
 
-## About Me
+I work at the intersection of **Cloud Security + AI Security + Identity + Application Security**, designing Zero Trust and secure-by-design architectures for modern cloud and AI workloads.
 
-Cloud & AI Solutions Architect with 12+ years of experience building scalable, cost-efficient, and secure systems across cloud and hybrid environments.
+## 🔐 Areas of Expertise
 
-## 🔹 What I Do
-- Cloud Migration & Modernization (AWS, Azure)
-- Multi-Cloud Architecture & FinOps
-- Java, Spring Boot Microservices
-- Agentic AI & LLM-based Systems
-- Cloud & Hybrid Security (IAM, Zero Trust, PKI)
+- **Cloud Security** — AWS, Azure & GCP security architecture
+- **AI Security** — Agentic AI, LLM Security, AI-SPM, Shadow AI & AI Guardrails
+- **IAM & Identity Security** — SSO, Federation, OAuth/OIDC, RBAC/ABAC, Least Privilege & Zero Trust
+- **Machine & AI Identity** — Workload identities, non-human identities, AI agents & service-to-service authorization
+- **Application Security** — Secure SDLC, API Security, SAST/DAST & DevSecOps
+- **Cloud-Native Security** — Kubernetes, Containers, Microservices & APIs
 
-## 🔹 Core Strength
-I design systems that are:
+## 🚀 Current Focus
 
-✔ Scalable  
-✔ Cost-efficient  
-✔ Secure by design  
-✔ AI-enabled  
+Building security architectures for the emerging intersection of:
 
-## 🔹 Featured Work
-➡️ Agentic AI Platform for Cloud Remediation  
-➡️ Cloud Migration & Modernization Architectures  
-➡️ Secure Microservices & Distributed Systems  
+**AI ↔ Identity ↔ Cloud ↔ Data ↔ Applications**
 
-## 🔹 Tech Stack
-AWS | Azure | Agentic AI | LLM | Java | Spring Boot | Microservices | LLM | Docker | Kubernetes | IAM | PKI
+with a particular focus on securing **AI agents, machine identities, permissions, tools/APIs and sensitive data access** across multi-cloud environments.
 
+## 🧪 Featured Work
 
-<!--
-**SabanaBandopadhyay/SabanaBandopadhyay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+➡️ Multi-Cloud AI Security Posture Management (AI-SPM)  
+➡️ Agentic AI Identity & Zero Trust Architecture  
+➡️ AI-Powered Cloud Security Remediation  
+➡️ Multi-Cloud IAM & Workload Identity Architecture  
+➡️ AI/LLM DevSecOps Security Pipeline  
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Cloud:** AWS | Azure | GCP  
+**Identity:** IAM | OAuth 2.0 | OIDC | SSO | Federation | RBAC/ABAC | PKI | Zero Trust  
+**AI Security:** Agentic AI | LLM Security | AI-SPM | Shadow AI | MCP Security | AI Guardrails  
+**AppSec:** SAST | DAST | API Security | DevSecOps  
+**Cloud Native:** Kubernetes | Docker | Microservices  
+**Development:** Java | Spring Boot | Python | GitHub Actions
